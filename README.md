@@ -8,7 +8,7 @@
 
 - 💼 [Meu portfólio ](https://about-me-three.vercel.app)
 - 🌱 Eu trabalho com desenvolvimento web e backend ultilizando NodeJs e Python
-- 🔭 Eu atualmente estou aprendendo IA, DataScince
+- 🔭 Eu atualmente estou aprendendo IA, DataScience
 - ⚡ Eu atualmente tento contribuir com projetos de ensino a programação para crianças, e participo de algumas comunidades como, Nerdzão, PerifaCode, GrajauDev. 
 - 📫 Como me contatar: [WhatsApp](https://api.whatsapp.com/send?phone=5511981054410)
 - ❤️ Apaixonada por Livros, Futebol e Tecnologias.
